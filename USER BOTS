@@ -1,0 +1,12 @@
+// ==UserScript==
+// @name         HVS BOTS
+// @version      1.0
+// @description  HVS bots by rekktt
+// @author       Rekktt
+// @match        *://agar.io/*
+// @grant        none
+// @run-at       document-start
+// @icon         https://image.shutterstock.com/image-vector/initial-letter-hvs-logo-vector-600w-1112699249.jpg
+// @require      
+// ==/UserScript==
+
